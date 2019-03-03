@@ -1,3 +1,5 @@
+import numpy as np
+
 def findpeaks(series, DELTA):
     """
     http://docs.sunpy.org/en/stable/generated/gallery/time_series/timeseries_peak_finding.html
