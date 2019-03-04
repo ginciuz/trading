@@ -1,5 +1,4 @@
 def findpeaks(series, DELTA):
-    import numpy as np
     """
     http://docs.sunpy.org/en/stable/generated/gallery/time_series/timeseries_peak_finding.html
     Finds extrema in a pandas series data.
